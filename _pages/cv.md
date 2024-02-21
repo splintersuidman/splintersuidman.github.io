@@ -12,13 +12,14 @@ redirect_from:
 Mathematical interests
 ----------------------
 
-Homotopy type theory, algebraic topology, category theory
+Homotopy type theory, algebraic topology, (higher) category theory
 
 Education
 ---------
 
 * **Utrecht University**, Utrecht, The Netherlands (2023–present)
   * MSc student in *Mathematical Sciences*
+  * Followed courses: [Algebraic Topology 1](https://mastermath.datanose.nl/Summary/454), [Category Theory](https://mastermath.datanose.nl/Summary/434), [Infinity-Categories](https://mastermath.datanose.nl/Summary/449)
 * **Radboud University**, Nijmegen, The Netherlands (2020–2023)
   * BSc in *Mathematics*, summa cum laude
   * BSc in *Computing Science*, cum laude
