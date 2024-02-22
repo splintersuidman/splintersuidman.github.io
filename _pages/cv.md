@@ -29,4 +29,4 @@ Teaching
 --------
 
 * Radboud University
-  * Teaching assistant for the second year Bachelor’s course [‘Algorithms & Data Structures’](https://www.ru.nl/studiegids/science/vm/osirislinks/ibc/nwi-ibc027/) in the Computing Science programme (2022)
+  * Teaching assistant for the second year Bachelor’s course [‘Algorithms & Data Structures’](https://www.ru.nl/courseguides/2022/science/vm/osirislinks/ibc/nwi-ibc027/) in the Computing Science programme (2022)
