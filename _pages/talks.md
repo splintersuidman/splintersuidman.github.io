@@ -5,6 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
+* [‘Homotopy category and Quillen functors’](/files/2024-05-24-homotopy-category-and-Quillen-functors.pdf), Raboud University, Nijmegen, The Netherlands (24 May 2024): handwritten notes for a talk for the seminar course _Advanced Seminar on Derived Categories_
 * [‘Equivariant homotopy theory via orbits’](/files/equivariant-homotopy-theory-via-orbits-thesis-presentation.pdf) (Bachelor’s thesis presentation), Raboud University, Nijmegen, The Netherlands (28 June 2023)
 
 {% if site.talkmap_link == true %}
