@@ -11,6 +11,7 @@ author_profile: true
 
 ## Notes
 
+* [‘Čech cohomology’](/files/2025-04-14-Čech-cohomology.pdf), notes for a talk for the seminar course [_Topos Theory: Sheaf Cohomology_](https://leoguetta.github.io/student_seminar.html)
 * [‘Sheaves in Topology’](https://mmasque.github.io/Sheaves-in-Topology-lecture-notes/main.pdf) (spring 2024), notes for the eponymous Master's course taught by Dr Remy van Dobben de Bruyn at Utrecht University in the spring semester of 2024 (joint with two fellow students, not finished)
 * [‘Model categories’](/files/model-categories.pdf) (spring 2024), note about model categories
-* [‘Derived adjunctions, translated twice: French to English, symbols to diagrams’](/files/derived-adjunctions.pdf) (April 2024), note about adjunctions of absolute total derived functors using string diagrams
+<!-- * [‘Derived adjunctions, translated twice: French to English, symbols to diagrams’](/files/derived-adjunctions.pdf) (April 2024), note about adjunctions of absolute total derived functors using string diagrams -->
