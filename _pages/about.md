@@ -13,3 +13,5 @@ My mathematical interests include homotopy theory, algebraic topology, and (high
 
 Previously, I obtained a double Bachelor’s degree in [Mathematics](https://www.ru.nl/en/education/bachelors/mathematics) and [Computing Science](https://www.ru.nl/en/education/bachelors/computing-science) at [Raboud University](https://www.ru.nl/) in Nijmegen, The Netherlands.
 My Bachelor’s thesis project, titled [‘Equivariant homotopy theory via orbits’](/files/equivariant-homotopy-theory-via-orbits.pdf), was in algebraic topology (specifically equivariant homotopy theory) and was supervised by Dr Magdalena Kędziorek.
+
+![Me before a blackboard in the mathematics library at Utrecht University](/images/blackboard.jpg)
