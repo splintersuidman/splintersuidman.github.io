@@ -17,8 +17,8 @@ Homotopy theory, algebraic topology, (higher) category theory
 Education
 ---------
 
-* **Utrecht University**, Utrecht, The Netherlands (2023–present)
-  * MSc student in *Mathematical Sciences*
+* **Utrecht University**, Utrecht, The Netherlands (2023–2025)
+  * MSc in *Mathematical Sciences*, cum laude
   * Completed courses: [Algebraic Geometry 1](https://mastermath.datanose.nl/Summary/510), [Algebraic Topology 1](https://mastermath.datanose.nl/Summary/454), [Algebraic Topology 2](https://mastermath.datanose.nl/Summary/468), [Category Theory](https://mastermath.datanose.nl/Summary/434), [Homotopy Type Theory](https://mastermath.datanose.nl/Summary/485), [Infinity-Categories](https://mastermath.datanose.nl/Summary/449), [Sheaves in Topology](https://cursusplanner.uu.nl/course/WISM501/2023/SEM2), [Advanced Seminar on Derived Categories](https://www.ru.nl/courseguides/science/vm/osirislinks/wm/nwi-wm155/)
 * **Radboud University**, Nijmegen, The Netherlands (2020–2023)
   * BSc in *Mathematics*, summa cum laude

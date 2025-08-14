@@ -7,7 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
-* [‘Equivariant homotopy theory via orbits’](/files/equivariant-homotopy-theory-via-orbits.pdf) (July 2023), Bachelor’s thesis for Mathematics, advised by Dr Magdalena Kędziorek
+* [‘Suspension of operads’](/files/suspension-of-operads.pdf) (July 2025), Master’s thesis in Mathematics, advised by Dr Gijs Heuts
+* [‘Equivariant homotopy theory via orbits’](/files/equivariant-homotopy-theory-via-orbits.pdf) (July 2023), Bachelor’s thesis in Mathematics, advised by Dr Magdalena Kędziorek
 
 ## Notes
 
