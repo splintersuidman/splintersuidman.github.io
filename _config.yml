@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Splinter Suidman"
   avatar           : "profile.jpeg"
-  bio              : "Mathematics Master’s student at Utrecht University"
+  bio              : ""
   location         : "Utrecht, The Netherlands"
   employer         :
   pubmed           :
   googlescholar    :
-  email            : "s.m.suidman@students.uu.nl"
+  email            : "splinter.suidman@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
