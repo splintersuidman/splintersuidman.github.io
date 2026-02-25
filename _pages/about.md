@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I work at [Channable](https://channable.com) in Utrecht, The Netherlands as a Haskell software engineer.
+
 In summer 2025, I graduated cum laude with a Master’s degree in [Mathematical Sciences](https://www.uu.nl/en/masters/mathematical-sciences) from [Utrecht University](https://www.uu.nl/en), The Netherlands.
 In my Master’s thesis [‘Suspension of operads’](/files/suspension-of-operads.pdf), supervised by Dr Gijs Heuts, I studied universal properties of operadic suspension in the context of higher algebra.
 My mathematical interests include homotopy theory, algebraic topology, and (higher) category theory.

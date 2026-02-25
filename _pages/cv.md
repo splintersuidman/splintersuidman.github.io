@@ -14,6 +14,12 @@ Mathematical interests
 
 Homotopy theory, algebraic topology, (higher) category theory
 
+Professional experience
+-----------------------
+
+* **Channable**, Utrecht, The Netherlands (2020, 2021, 2025–present) \
+  *Haskell software engineer*
+
 Education
 ---------
 
